@@ -1,3 +1,3 @@
 <div>
-    <img src="content.svg" width="840" height="480">
+    <img src="zZ.svg" width="840" height="480">
 </div>
